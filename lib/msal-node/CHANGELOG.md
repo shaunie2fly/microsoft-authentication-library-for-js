@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-node
 
-This log was last generated on Tue, 08 Feb 2022 00:41:06 GMT and should not be manually modified.
+This log was last generated on Wed, 23 Feb 2022 23:41:27 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.7.0
+
+Wed, 23 Feb 2022 23:41:27 GMT
+
+### Minor changes
+
+- Added nonce support to MSAL Node #4504 (marionminayo@microsoft.com)
 
 ## 1.6.0
 

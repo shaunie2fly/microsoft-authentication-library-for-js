@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-react
 
-This log was last generated on Tue, 08 Feb 2022 00:41:07 GMT and should not be manually modified.
+This log was last generated on Wed, 23 Feb 2022 23:41:27 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 1.3.1
+
+Wed, 23 Feb 2022 23:41:27 GMT
+
+### Patches
+
+- Update MsalProvider state values concurrently #4477 (thomas.norling@microsoft.com)
 
 ## 1.3.0
 
